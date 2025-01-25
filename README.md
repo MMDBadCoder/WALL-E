@@ -1,3 +1,6 @@
+![Car Robot](images/walle.png)
+
+
 # WiFi-Controlled Car Robot (ESP32)
 
 This project is a WiFi-controlled car robot built using an **ESP32** microcontroller. The robot is equipped with two motors controlled by an **L298N motor driver**, powered by a **lithium battery**, and controlled via a **UDP server**. It can be operated using two types of controllers:
