@@ -60,6 +60,7 @@ This project is a WiFi-controlled car robot built using an **ESP32** microcontro
    - Connect to the ESP32's IP address and use the gyroscope to control the robot.
 
 <img alt="Car Robot" src="images/android-controller.jpg" width="300" style="border: 5px solid black;">
+
 ![Demo GIF](./videos/demo.gif)
 
 [Watch the Demo Video](./videos/video.mp4)
