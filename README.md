@@ -59,6 +59,7 @@ This project is a WiFi-controlled car robot built using an **ESP32** microcontro
    - Install the Android app (`android_controller.apk`).
    - Connect to the ESP32's IP address and use the gyroscope to control the robot.
 
+<img alt="Car Robot" src="images/android-controller.jpg" width="100"/>
 ---
 
 ## Code Structure
